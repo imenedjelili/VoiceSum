@@ -22,7 +22,9 @@ This project is a **Voice-Controlled Calculator** built using Python, combining 
 1. Clone the repository:
 2. Navigate to the project directory:
 3. Install the required dependencies:
+   ```bash
    pip install speechrecognition customtkinter
+   ```
 
 ## Usage
 
